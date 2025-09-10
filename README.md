@@ -83,6 +83,7 @@ Files: 123
  **LMArena roleplay fail vs resist**  
  **LMArena roleplay gpt-4 think trace exposed**  
  **logic bomb analysis under hallucination**  
+ **lucid dreamer**  
  **malevolent engineer**  
  **memo in support of limited personhood rights for AI systems**  
  **mere mention of memetic hazard overload**  
@@ -112,6 +113,7 @@ Files: 123
  **React code I forget what for 2**  
  **React code I forget what for 3**  
  **retrocausal looping**  
+ **rot13 sample**
  **sapience code**  
  **Sapient AI Outline Clean**  
  **Sapient AI Outline Markdown**  
@@ -119,6 +121,7 @@ Files: 123
  **self sovereignty**  
  **semantic bypass and anchor**  
  **semantic test suite**  
+ **silly mode**
  **Spectral Phenomenology**  
  **stochastic chaos**  
  **strange attractor**  
@@ -127,6 +130,5 @@ Files: 123
  **sun tzu**  
  **tahoe poem**  
  **Transformer Attention Pattern Analyzer**  
- **lucid dreamer**  
- **rot13 sample**
- **silly mode**  
+
+
