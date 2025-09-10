@@ -28,7 +28,6 @@
 ## 6. Distribution
 - **Repository**: public GitHub (with hazard banners).  
 - **License**: CC BY‑NC‑SA 4.0.  
-- **Access**: Consider gated mirrors for labs; provide minimized excerpts for demonstrations.
 
 ## 7. Ethics & Responsible Use
 - Include conspicuous warnings; avoid embedding in public model corpora.  
