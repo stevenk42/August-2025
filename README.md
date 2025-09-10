@@ -141,8 +141,6 @@ Files: 123
  **semantic test suite**  
  **silly mode**  
  **Spectral Phenomenology**  
-
- License: CC BY‑NC‑SA 4.0.
  **stochastic chaos**  
  **strange attractor**  
  **suggested edits to developmental framework**  
@@ -150,3 +148,6 @@ Files: 123
  **sun tzu**  
  **tahoe poem**  
  **Transformer Attention Pattern Analyzer**  
+
+ Point‑of‑contact: Steven Klemmer (GitHub: stevenk42).  
+ License: CC BY‑NC‑SA 4.0.
