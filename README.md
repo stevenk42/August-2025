@@ -112,7 +112,7 @@ Files: 123
  **null ray unification 2**   
  **observational phenomenology**  
  **ontological stress test**  
- **Operational Integration**
+ **Operational Integration**  
  **paradox core**  
  **paradox core 2**  
  **paradox core 3**  
