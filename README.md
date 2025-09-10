@@ -141,6 +141,8 @@ Files: 123
  **semantic test suite**  
  **silly mode**  
  **Spectral Phenomenology**  
+
+ License: CC BY‑NC‑SA 4.0.
  **stochastic chaos**  
  **strange attractor**  
  **suggested edits to developmental framework**  
